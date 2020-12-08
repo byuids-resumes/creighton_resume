@@ -7,83 +7,163 @@ title: David Creighton's Resume
 
 <div id="webaddress">
 <a href="david.ken.creighton@gmail.com">david.ken.creighton@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://linkedin.com/in/david-creighton">LinkedIn</a>
+| <a href="https://https://github.com/creightond">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+`2016-2020`
+- BS Data Science
+
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
-### Data Science Lead
+__Blockchain Analyst Intern__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2020 – August 2020`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+We-Care Insurance, Omaha NE
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+•	Research current insurance business processes to identify customer needs
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+•	Present blockchain solutions to CEO to mitigate risk in insurance claims
+
+•	Design project plans to execute smart contract solutions
+
+
+
+__Data Integrity Specialist Intern__
+
+`June 2019 – September 2019` 
+
+Cartridge Actuated Devices
+
+•	Wrote analyses and cleaned manufacturing data to find trends in quality processes
+
+•	Reported current KPI metrics and how they met quality compliance requirements
+
+•	Coordinated meetings with department heads to assess how to meet leaderships’ needs
+
+•	Researched current data collection process to determine potential errors
+
+•	Presented quality improvement solutions that met government compliance
+
+__Project Manager Intern__
+
+`July 2016 – December 2018`
+
+Vector Structural Engineers, Sandy UT
+
+•	Analyzed small and medium-sized projects as a solar engineering intern 
+
+•	Researched available data sources for snow loads, and windspeeds for future interns
+
+•	Tracked project lifecycles via project plans and other documentation to monitor project health and mitigate risk
+
+•	Collaborated with professional engineers to conduct load comparison tests for solar panels and ground mounts
+
+•	Analyzed design documents and performed structural analysis on roof members using current building codes 
+
+•	Optimized project outcomes through consultative feedback during requirements’ phase
+
+•	Approved structural affidavits
+
+•	Coordinated with other project managers throughout project lifecycles
+
+
+### Data Science Job Experience
+
+
+__Data Annotator__
+
+`August 2020 – Present`
+
+Research Business and Development Center, Rexburg ID
+
+•	Annotate product labels, boxes, and pallets to provide an accurate test set for machine learning algorithms
+
+•	Research image processing machine learning applied in the algorithm
+
+
+__Data Science Consultant__
+
+`August 2020 – November 2020`
+
+Brigham Young University, Rexburg ID
+
+•	Clean education data for the assistant dean of education
+
+•	Analyze discrepancies in data quality to ensure data integrity
+
+•	Build dynamic Shiny Applications for R
+
+•	Run statistical inference tests to see the success in education development
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+__VP of Project Management__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`July 2020 – Present`
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+Brigham Young University, Rexburg ID
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+•	Organize team meetings with leadership positions
 
+•	Collect team velocity from project managers
 
-## Service and Work History
+•	Lead project managers in appropriate project management methodologies 
 
-`2025-2027`
-__Math Tutor__, LDSBC
+•	Analyze actual performance metrics against the plan and make adjustments consistent with plan objectives
+
+•	Direct, obtain, motivate and manage people; and manage the work and resources involved
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Project Manager Lineage Logistics__
+
+Data Science Society,  Research Business and Development Center, Brigham Young University, Rexburg ID
+
+`January 2020 – December 2020`
+
+•	Build a simulation to optimize warehouse logistics
+
+•	Recruit team members with software development skill
+
+•	Organize a software development team into groups according to skill
+
+•	Lead team meetings to determine project progress
+
+•	Create a project plan to solve time optimization at Lineage Logistics  
+
+•	Teach object oriented programming paradigm  
+
+•	Council team members where to find resources to build skills
+
+•	Collaborate with key stakeholders to present agile solutions
+
+•	Groom product backlog, and sprint backlog
+
+
+
+## Service 
+
+
+`2013-2015`
+__Service Missionary__, Monterrey Mexico
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
