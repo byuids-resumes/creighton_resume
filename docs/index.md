@@ -8,7 +8,6 @@ title: David Creighton's Resume
 <div id="webaddress">
 <a href="david.ken.creighton@gmail.com">david.ken.creighton@gmail.com</a>
 | <a href="https://linkedin.com/in/david-creighton">LinkedIn</a>
-| <a href="https://github.com/creightond">GitHub</a>
 </div>
 
 
